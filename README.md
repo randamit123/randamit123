@@ -2,7 +2,7 @@
 👨‍🎓 **Third-Year Student** at the University of California, Los Angeles (UCLA)  
 📚 **Major:** Computer Science & Mathematics  
 🤖 **Incoming LLM Research Scientist** at Leidos AI Accelerator  
-🔬 **Research Assistant** at the Cardiovascular Imaging Research Lab (CVIRL)
+🔬 **Research Assistant** at the Cardiovascular Imaging Research Lab (CVIRL)  
 💡 **Background in:** Machine Learning & Software Development  
 
 Passionate about AI, mathematical modeling, and building scalable software solutions. Always exploring the intersection of theory and application in machine learning and computational mathematics.  
