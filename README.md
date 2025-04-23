@@ -2,6 +2,8 @@
 👨‍🎓 **Third-Year Student** at the University of California, Los Angeles (UCLA)  
 📚 **Major:** Computer Science & Mathematics  
 🤖 **Incoming Embedded SDE Intern** at Amazon  
+🧠 **Research Scientist Intern** at Leidos  
+🛠️ **GenAI Intern** at Scale AI  
 🔬 **Research Assistant** at the Cardiovascular Imaging Research Lab (CVIRL)  
 💡 **Background in:** Machine Learning & Software Development  
 
