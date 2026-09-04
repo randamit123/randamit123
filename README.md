@@ -1,9 +1,3 @@
-# 💫 About Me:
-👨‍🎓 **Fourth-year** at the University of California, Los Angeles (UCLA)  
-📚 **Major:** Computer Science & Mathematics  
-🔬 **Research Assistant** at the Cardiovascular Imaging Research Lab (CVIRL)  
-💡 **Background in:** Machine Learning & Software Development  
-
 Passionate about AI, mathematical modeling, and building scalable solutions. Always exploring the intersection of theory and application in machine learning and computational mathematics.  
 
 
